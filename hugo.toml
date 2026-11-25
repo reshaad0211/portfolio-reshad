@@ -1,0 +1,28 @@
+
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Reshad Abedin | Personal Archive"
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 6
+
+[params]
+  author = "Reshad Abedin"
+  name = "Reshad Abedin"
+  role = "Computer Science Student & Developer"
+  description = "A personal digital archive documenting my academic journey, technical explorations and creative interests."
+
+  tagline = "Building technology. Exploring possibilities."
+
+  location = "Bangladesh"
+
+  email = "your-email@example.com"
+
+  github = "https://github.com/yourusername"
+  linkedin = "https://www.linkedin.com/in/yourusername"
+
+  profileImage = "/images/hero.jpg"
+
+  accentColor = "#A83232"
